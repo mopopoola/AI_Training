@@ -1,0 +1,12 @@
+Muhammed Popoola
+
+DevOps Engineer
+
+Skills:
+Python
+GitHub
+Azure DevOps
+
+Certifications:
+AZ-900
+DevOps Fundamentals
